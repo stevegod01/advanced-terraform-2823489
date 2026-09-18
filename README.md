@@ -1,3 +1,19 @@
+# Reference archive
+
+This repository is retained as LinkedIn Learning course examples by David Swersky.
+
+The reviewed default branch matched upstream. These examples are retained for learning, not presented as an original implementation.
+
+Maintained source or successor: [https://github.com/LinkedInLearning/advanced-terraform-2823489](https://github.com/LinkedInLearning/advanced-terraform-2823489).
+
+## Maintenance status
+
+Preserved for reference; no claim of current production readiness or passing CI. Original attribution and license notices remain applicable. Portfolio projects are listed at [stevegod01](https://github.com/stevegod01).
+
+---
+
+## Original project documentation
+
 # Advanced Terraform
 This is the repository for the LinkedIn Learning course Advanced Terraform. The full course is available from [LinkedIn Learning][lil-course-url].
 
